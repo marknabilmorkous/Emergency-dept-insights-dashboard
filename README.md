@@ -39,7 +39,7 @@ The **Emergency Department Performance Dashboard** provides high-level key perfo
 
 ## 🛠️ Tech Stack & Tools
 
-* Excel | for data cleaning and changing data types.
+* python | for data cleaning .
 * Power BI | to create professional dashboard that help in Problems in the Emergency Department .
 ---
 
